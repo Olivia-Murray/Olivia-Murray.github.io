@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Olivia Murray",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/images/Senior Pic.jpg",
+    "email": "omurray4@hawaii.edu",
+    "phone": "808-895-5776",
+    "website": "https://Olivia-Murray.github.io",
+    "summary": "I am studying for a B.S. in Computer Science, specializing in Cyber Security, in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
-      "address": "",
+      "address": "2569 Dole St.",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "Olivia-Murray",
+        "url": "http://github.com/Olivia-Murray"
       },
       {
         "network": "linkedin",
