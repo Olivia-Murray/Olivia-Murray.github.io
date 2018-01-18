@@ -24,34 +24,27 @@
         "network": "linkedin",
         "username": "olivia-murray",
         "url": "https://www.linkedin.com/in/olivia-murray-3718a3156/"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "olive_you324",
-        "url": "http://instagram.com/olive_you324"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "cyber security",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "app development",
       "keywords": [
       ]
     },
     {
       "name": "artificial intelligence",
+      "keywords": [
+      ]
+    }
+    {
+      "name": "information technology and management",
       "keywords": [
       ]
     }
@@ -64,100 +57,76 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-08-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.85",
       "courses": [
+        {
+          "Software engineering",
+          "Algorithms",
+          "Physics",
+          "Introduction to American history"
+        }
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Center on Disability Studies",
+      "position": "Math and Science Curriculum Developer",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2017-12-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Developing curriculum for 4th and 5th graders under the Ka Pilina Noeau grant",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Create and write lesson plans",
+        "Design projects for students that incorporate math and science Common Core standards"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Civil Air Patrol",
+      "website": "https://www.maryknollschool.org/page/school-life/civil-air-patrol",
+      "position": "CyberPatriot Coach and Mentor",
+      "startDate": "2018-01-17",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Coach and Mentor to cadets for national cybebr defence competition",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Teach students how to secure a computer",
+        "Prepare students for competition, as well as real life scenarios"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "University of Hawaii at Manoa Regents Scholarship",
+      "date": "2016-Present",
+      "awarder": "University of Hawaii",
+      "summary": "Regents Scholarships are full-tuition waiver scholarships awarded to 20 outstanding freshmen who receive an SAT total score of at least 1950 (old SAT) / 1380 (new SAT) or ACT combined score of at least 29, maintain at least a 3.5 GPA in academic subjects in high school, and whose extracurricular achievements are shown to be remarkable."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "THINK STEM Scholarship Fund",
+      "date": "2016-2017",
+      "awarder": "Thiry Meter Telescope",
+      "summary": "Awarded to students who will work in a STEM occupation on the Hawai'i Island."
     }
   ],
   "references": [
