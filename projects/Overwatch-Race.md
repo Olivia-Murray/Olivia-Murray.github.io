@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
+image: images/Overwatch.png
+title: Overwatch Race
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2016-09-26
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+  - ICS 111
+  - 
+summary: First ICS 111 project - Racing Game with Overwatch twist.
 ---
 
 <div class="ui small rounded images">
