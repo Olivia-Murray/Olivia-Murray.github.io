@@ -34,7 +34,7 @@ Robots can also be considered as computers, or at least they have a computer com
 In conclusion, a computer is what a person deems it to be.  Everyone has their own opinion about what is a computer and what is not, and this is simply one opinion; computers are programmable machines that make human lives easier.  
 
 ## Works Cited
-“Alan Turing.” The Biography.com Website. A & E Networks Television. 10 July 2017. 
-https://www.biography.com/people/alan-turing-9512017. Accessed 29 Aug. 2017.
-“Computers | Timeline of Computer History.” Computer History Museum, 
-http://www.computerhistory.org/timeline/computers/. Accessed 29 Aug. 2017.
+<blockquote>“Alan Turing.” The Biography.com Website. A & E Networks Television. 10 July 2017. 
+https://www.biography.com/people/alan-turing-9512017. Accessed 29 Aug. 2017.</blockquote>
+<blockquote>“Computers | Timeline of Computer History.” Computer History Museum, 
+http://www.computerhistory.org/timeline/computers/. Accessed 29 Aug. 2017.</blockquote>
