@@ -1,25 +1,19 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/Halloween.jpg
+title: Halloween Animation
+permalink: projects/halloween-animation
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2016-10-31
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  - ICS 111
+summary: Second ICS 111 Project - Simple Animation, just in time for Halloween.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This is my second project of ICS 111.  It was around halloween so I tried to have some halloween spirit.  This project demonstrated my ability to make objects complete a series of movements, including translating and rotating, as well as play sounds.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+You can view my repository here: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
