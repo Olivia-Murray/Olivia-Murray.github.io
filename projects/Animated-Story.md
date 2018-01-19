@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/Flying-Ship.jpg
 title: Animated Story
 permalink: projects/animated-story
 # All dates must be YYYY-MM-DD format!
