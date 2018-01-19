@@ -16,4 +16,4 @@ summary: Second ICS 111 Project - Simple Animation, just in time for Halloween.
 
 This is my second project of ICS 111.  It was around halloween so I tried to have some halloween spirit.  This project demonstrated my ability to make objects complete a series of movements, including translating and rotating, as well as play sounds.
 
-You can view my repository here: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+You can view my repository [here](https://github.com/Olivia-Murray/ICS111-Project2).
