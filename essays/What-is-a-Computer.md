@@ -10,7 +10,7 @@ labels:
   - Turing
 ---
 
-<img class="ui medium left floated image" src="../images/Old-Computer.png"><blockquote>“Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” 
+<img class="ui medium left floated image" src="../images/Old-Computer.png"> <blockquote>“Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” 
 ― Alan Turing</blockquote>
 
 ## What is a Computer?
