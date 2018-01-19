@@ -18,7 +18,7 @@ summary: First ICS 111 project - Racing Game with Overwatch twist.
   <img class="ui image" src="../images/Pharah.png">
 </div>
 
-This was my first ICS 111 coding project that really got me interested in ICS. The goal of this game is click keys “A” and “D” (A and then D or D and then A, not at the same time) as fast as possible to move across the screen. The game starts as I hear the announcer start the countdown, the “leader” will be updated once a new leader has taken first place.
+This was my first ICS 111 coding project that really got me interested in ICS. The goal of this game is click keys “A” and “S” (A and then S or S and then A, not at the same time) as fast as possible to move across the screen. The leader will be updated once a new leader has taken first place, and is verbally announced.
 
 You can view my repository [here](https://github.com/Olivia-Murray/ICS111-Project1).
 
