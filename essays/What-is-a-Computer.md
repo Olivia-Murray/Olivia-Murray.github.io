@@ -11,6 +11,8 @@ labels:
 ---
 
 <img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+<blockquote>“Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” 
+― Alan Turing</blockquote>
 
 ## What is a Computer?
 
