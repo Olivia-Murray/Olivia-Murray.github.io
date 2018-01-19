@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Overwatch.png
 title: Overwatch Race
-permalink: projects/micromouse
+permalink: projects/overwatch-race
 # All dates must be YYYY-MM-DD format!
 date: 2016-09-26
 labels:
@@ -12,7 +12,7 @@ labels:
 summary: First ICS 111 project - Racing Game with Overwatch twist.
 ---
 
-<div class="ui small rounded images">
+<div class="ui small images">
   <img class="ui image" src="../images/Dva.png">
   <img class="ui image" src="../images/Soldier-76.png">
   <img class="ui image" src="../images/Pharah.png">
