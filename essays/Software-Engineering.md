@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui medium left floated image" src="../images/paintbrushes.jpg">
+<img class="ui medium left floated image" src="../images/Software.jpg">
 
 Coding can be very useful.  Unless you don’t know how to use it.  Then what’s the point?  I know how to program an algorithm to do a binary search through a sorted array and tell you it’s run time is Θ(log n), but there is so much more to being a programmer.  This is why I am so interested in software engineering.  I want to go places with my coding, and I believe this is the route to go.
 
