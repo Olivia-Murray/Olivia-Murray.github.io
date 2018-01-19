@@ -78,12 +78,12 @@
       "endDate": "Present",
       "gpa": "3.85",
       "courses": [
-        {
+        
           "Software engineering",
           "Algorithms",
           "Physics",
           "Introduction to American history"
-        }
+        
       ]
     }
   ],
