@@ -12,7 +12,12 @@ labels:
 summary: Second ICS 111 Project - Simple Animation, just in time for Halloween.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<div class="ui small images">
+  <img class="ui image" src="../images/Witch.png">
+  <img class="ui image" src="../images/Ghost.png">
+  <img class="ui image" src="../images/Cat.png">
+</div>
+
 
 This is my second project of ICS 111.  It was around halloween so I tried to have some halloween spirit.  This project demonstrated my ability to make objects complete a series of movements, including translating and rotating, as well as play sounds.
 
