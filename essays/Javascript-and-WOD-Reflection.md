@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Initial Thoughts on Javascript
+title: Javascript and Athletic Software Engineering
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-19
 labels:
