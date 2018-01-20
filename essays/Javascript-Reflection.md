@@ -6,10 +6,11 @@ title: Initial Thoughts on Javascript
 date: 2018-01-19
 labels:
   - Software Engineering
+  - Athletic Software Engineering
   - Javascript
 ---
 
-<img class="ui medium center floated image" src="../images/Javascript.png">
+<img class="ui medium right floated image" src="../images/Javascript.png">
 
 Before learning anything about Javascript, I was not sure of what to expect.  I had heard people talk of Javascript in such a negative way, but yet others quite enjoyed coding in it.  However, once I started the tutorial on <a href="https://www.freecodecamp.org">FreeCodeCamp</a>, I was amazed at how fast I was learning.  It was simpler to learn compared to Java.  I would recommend a person who is just starting their journey through code to learn Javascript first, before attempting any other language.  If you're like me and know how to program in at least one programming language, in my opinion Javascript is very easy to learn.  I have never touched Javascript before taking ICS 314 Software Engineering.  However, I knew how to code in Java and I find Javascript to be very similar, but easier.  One example is that you do not have to worry about return types.  I am genuinely excited to learn all that I can do with Javascript.  I have not learned enough to know whether it is a good or bad programming language with respect to software engineering, but I'm sure it is coming soon.
 
