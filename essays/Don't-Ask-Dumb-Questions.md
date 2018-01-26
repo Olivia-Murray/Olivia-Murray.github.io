@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Javascript and Athletic Software Engineering
+title: Don't Ask Dumb Questions
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-25
 labels:
