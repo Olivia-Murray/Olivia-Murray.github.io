@@ -5,13 +5,13 @@ title: How to Not be a Luser
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-25
 labels:
+  - Open Source
+  - Stack Overflow
   - Software Engineering
-  - Athletic Software Engineering
-  - Javascript
 ---
 
 <img class="ui medium right floated image" src="../images/open-source.jpg">
-## Open Source is a Friend
+## Open Source can be a Friend
 The world of computer science and programming is growing, there is no doubt.  The people in this community are connected by their passion and knowledge.  As a result of this, the open source community is also growing at an exponential rate.  It has become a great tool for many programmers.  
 
 After one has been staring at hundreds of lines of code for an extended period of time, their ability to find mistakes will have likely declined.  Sometimes, all it takes is another set of eyes who can spot the misspelt variable or function.  Other times, one may simply not know how to implement something due to lack of knowledge.  This is where open source comes into play.  However, there are ways in which one can maximize their use of open source in terms of how to ask a question.
