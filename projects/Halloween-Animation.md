@@ -19,6 +19,6 @@ summary: Second ICS 111 Project - Simple Animation, just in time for Halloween.
 </div>
 
 
-This is my second project of ICS 111.  It was around halloween so I tried to have some halloween spirit.  This project demonstrated my ability to make objects complete a series of movements, including translating and rotating, as well as play sounds.
+This is my second project of ICS 111.  It was around halloween so I tried to have some halloween spirit.  This project demonstrated my ability to make objects complete a series of movements, including translating and rotating, as well as play sounds.  I was actually quite disappointed with how this project turned out.  It met the requirements to "get an A," but I was not satisfied with my work.  I initially used gifs in an effort to make the images move while animating, but I did not have enough time.  I learned to not only start early, but put in consistent, high quality time to produce my best product.
 
 You can view my repository [here](https://github.com/Olivia-Murray/ICS111-Project2).
