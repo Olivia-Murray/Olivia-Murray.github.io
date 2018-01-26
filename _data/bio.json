@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://Olivia-Murray.github.io/images/Senior-Pic.jpg",
     "email": "omurray4@hawaii.edu",
-    "phone": "808-895-5776",
+    "phone": "",
     "website": "https://Olivia-Murray.github.io",
     "summary": "I am studying for a B.S. in Computer Science, specializing in Cyber Security, in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
@@ -79,10 +79,14 @@
       "gpa": "3.85",
       "courses": [
         
-          "Software engineering",
-          "Algorithms",
-          "Physics",
-          "Introduction to American history"
+          "Introduction to Computer Science I (ICS 111)",
+          "Discrete Math for Computer Science I (ICS 141)",
+          "Intruduction to Computer Science II (ICS 211)",
+          "Basic Concepts of Computer Science (ICS 222)",
+          "Discrete Math for Computer Science I (ICS 141)",
+          "Discrete Math for Computer Science II (ICS 241)",
+          "Algorithms (ICS 311) (current)",
+          "Software engineering I (ICS 314) (current)"
         
       ]
     }
