@@ -10,7 +10,7 @@ labels:
   - Javascript
 ---
 
-<img class="ui medium right floated image" src="../images/Javascript.png">
+<img class="ui medium right floated image" src="../images/open-source.jpg">
 ## Open Source is a Friend
 The world of computer science and programming is growing, there is no doubt.  The people in this community are connected by their passion and knowledge.  As a result of this, the open source community is also growing at an exponential rate.  It has become a great tool for many programmers.  
 
