@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Javascript and Athletic Software Engineering
+title: Javascript and Working Out
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-19
 labels:
