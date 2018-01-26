@@ -99,6 +99,18 @@
         "Create and write lesson plans",
         "Design projects for students that incorporate math and science Common Core standards"
       ]
+    },
+    {
+      "company": "Big Island Vision Center",
+      "position": "Website Manager and Office Assistant",
+      "website": "bigislandvisioncenterhilo.com",
+      "startDate": "2016-7-01",
+      "endDate": "Present",
+      "summary": "Managing website content and clerical duties",
+      "highlights": [
+        "Write and post website content",
+        "Design and create optical forms"
+      ]
     }
   ],
   "volunteer": [
@@ -112,6 +124,42 @@
       "highlights": [
         "Teach students how to secure a computer",
         "Prepare students for competition, as well as real life scenarios"
+      ]
+    },
+    {
+      "organization": "GreyHats at UHM",
+      "website": "https://greyhats.club/",
+      "position": "",
+      "startDate": "2017-08-20",
+      "endDate": "Present",
+      "summary": "Cyber defense oriented club",
+      "highlights": [
+        "Participate in various competitions such as National Cyber League",
+        "Attend special talks from professionals in the cyber defense field"
+      ]
+    },
+    {
+      "organization": "NexTech",
+      "website": "",
+      "position": "College Consultant",
+      "startDate": "2015-02-15",
+      "endDate": "Present",
+      "summary": "Mentor and planning consultant for NexTech STEM promoting events",
+      "highlights": [
+        "Help to plan NexTech workshops",
+        "Project manager for the NexTech One-Day Workshop in March 2018"
+      ]
+    },
+    {
+      "organization": "Pacific Roller Derby",
+      "website": "http://www.pacificrollerderby.com/",
+      "position": "Player",
+      "startDate": "2017-02-01",
+      "endDate": "Present",
+      "summary": "Community organized team sport",
+      "highlights": [
+        "Participate in monthly games open to the public",
+        "Organize the half-time entertainment for games"
       ]
     }
   ],
