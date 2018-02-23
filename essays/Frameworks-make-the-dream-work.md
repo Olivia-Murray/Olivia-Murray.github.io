@@ -5,7 +5,8 @@ title: Frameworks make the Dream Work
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-22
 labels:
-  - Coding Standards
+  - UI Frameworks
+  - Semantic UI
   - Software Engineering
   - Learning
 ---
