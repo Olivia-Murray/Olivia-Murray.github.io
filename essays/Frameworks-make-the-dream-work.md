@@ -25,6 +25,7 @@ It was very interesting to play around with copying other websites.  It made me 
 ## Original Website Header and Footer
 
 <img class="ui fluid image" src="../images/TMT-Before-Header.png">
+<br>
 <img class="ui fluid image" src="../images/TMT-Before-Footer.png">
 
 ## My Recreated Website
