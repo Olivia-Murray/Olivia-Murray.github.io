@@ -27,7 +27,7 @@ It was very interesting to play around with copying other websites.  It made me 
 <img class="ui medium left floated image" src="../images/TMT-Before-Header.png"><img class="ui medium right image" src="../images/TMT-Before-Footer.png">
 
 ## My Recreated Website
-<img class="ui large image" src="../images/TMT-After.png">
+<img class="ui fluid image" src="../images/TMT-After.png">
 
 Everyone should start with learning basic HTML and even try to build a website before using a UI Framework.  This way you get comfortable with the idea of HTML and how to use it.  You should also get comfortable with Cascading Style Sheets (CSS) to accompany the HTML.  This way when you start integrating a UI Framework into your code, you understand how the code works (and also appreciate how much easier it is).  Especially when first learning, play around with the different features.  In the end, the faster you learn to use Semantic UI, the faster you create HTML code, the faster you can make your dream website come true.
 
