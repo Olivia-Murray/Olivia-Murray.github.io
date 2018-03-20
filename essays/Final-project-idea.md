@@ -7,13 +7,13 @@ labels:
   - Software Engineering
   - Meteor
 ---
+##Manoa Class Planner
+
 <i>This idea was created by Olivia Murray, Collin Takasaki, and Riley Cammack</i>
 
-<img class="ui medium left floated image" src="../images/Software.jpg">
+<i>The problem:</i> For many UH students, scheduling the next semester can be hard. You have to figure out what classes you have to take, want to take, and what is available. On top of that, you want a good professor.  What usually ends up happening is a student has a bunch of tabs open and takes much longer than needed.
 
-<i>The problem:</i>
-Schedule making 
+<i>The soluction:</i> The Manoa Class Planner (MCP) web application provides a whole new way to schedule classes. MCP uses the class availability for the upcoming semester to show what courses are available. You can search for courses by subject. If you click on a certain class 
 
-<i>The soluction:</i>
 Using class availability for UH Manoa
 
