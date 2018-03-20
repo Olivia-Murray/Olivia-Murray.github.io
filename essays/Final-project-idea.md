@@ -7,7 +7,7 @@ labels:
   - Software Engineering
   - Meteor
 ---
-##Manoa Class Planner
+## Manoa Class Planner
 
 <i>This idea was created by Olivia Murray, Collin Takasaki, and Riley Cammack</i>
 
