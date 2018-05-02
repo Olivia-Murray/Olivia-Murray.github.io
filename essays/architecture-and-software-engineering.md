@@ -11,8 +11,6 @@ labels:
   - Design Patterns
 ---
 
-## Architecture and Software Engineering
-
 <img class="ui medium left floated image" src="../images/roof.jpg">
 
 As I travel deeper into software engineering and computer science in general, I have realized many similarities between architecture and coding.  Both have structures, both can be simplified into simpler planning parts (blueprints and pseudocode), and more recently I have realized that both make use of design patterns.
