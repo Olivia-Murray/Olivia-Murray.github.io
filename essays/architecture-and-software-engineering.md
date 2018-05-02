@@ -1,13 +1,14 @@
 ---
 layout: essay
 type: essay
-title: Design Patterns
+title: Architecture and Software Engineering
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-01
 labels:
   - Coding Standards
   - Software Engineering
   - Learning
+  - Design Patterns
 ---
 
 <img class="ui medium left floated image" src="../images/Software.jpg">
