@@ -11,15 +11,14 @@ labels:
   - Design Patterns
 ---
 
-<img class="ui medium left floated image" src="../images/Software.jpg">
+##Architecture and Software Engineering
 
-Coding is communication. The different languages are different ways to communicate to different electronics.  This is just like in our everyday lives.  If you want to communicate with a Chinese person, you use Chinese.  If you want to communicate with a French person, you use French.  Just like these written and spoken languages, there are rules.  If you do not follow these rules, your words will not be understandable.  The same goes for coding.  We have our basic syntax that must be used, or else the computer will not accept nor understand it.  
+<img class="ui medium left floated image" src="../images/roof.jpg">
 
-As far as analyzing human language, imagine reading an essay, just like the one you are currently reading.  Imagine if this essay were one long paragraph.  The writer knows exactly what he wrote, so he can easily understand it and how to maneuver through it.  However, another person would have a very hard time.  It would look like a mess, and though it is possible to read and understand it, it would take more time.
+As I travel deeper into software engineering and computer science in general, I have realized many similarities between architecture and coding.  Both have structures, both can be simplified into simpler planning parts (blueprints and pseudocode), and more recently I have realized that both make use of design patterns.
 
-The same goes for coding.  It is good practice to use coding standards.  If everyone used the followed the same coding standard, it would make collaborating much easier.  Coders often get stuck when coding, and a second opinion is always nice.  If a coder used coding standards, as well as whoever looks at it, it will be faster for the mistake to be found.  
+Design patterns are reusable solutions to common problems.  In architecture, an example of a design pattern is a roof shape.  For different places, based on the conditions, you may use a different roof shape, but you generally follow the same design pattern.  In software engineering, an example of a design pattern is having a basic layout for a website, which can be reused to create a similar website.  This basic layout can be like a skeletal structure, and based on your needs, you can customize the rest of it.  
 
-Using a program like IntelliJ with ESLint standards will also catch mistakes right when they happen.  For instance if you do not use a variable you created, meaning either it was created for nothing (which I doubt is the case), or it is possible it is misspelt. Using IntelliJ is very convenient because they have this green checkmark in the corner that acts almost like spell-check or Grammarly.  If your code follows all standards in accordance with ESLint, it appears as a green checkmark, which is always pleasant to see.  If there are errors, it will instead be red, and will tell you exactly what you are doing wrong.
+Design patterns are great for beginner programmers.  As a fairly novice programmer myself, I found that learning through design patterns is one of the better ways for me to learn. It allows me to get used to new terms and techniques.  Using this template, I can then play around with changing it and adding to it, based on my needs, which are usually smaller projects.
 
-If everyone used the same coding standards, it would be like the entire world being able to speak a mutual language.  That level of communication and collaboration would inspire so many great ideas and projects.  I hope one day these standards will be more widely used, as they have already improved my ability to learn code.
-
+I would like to think of it that architecture students are doing something similar.  They do not go and build a house their first day of class.  They start off with building smaller model projects and can play around with different structures.  The more I think about it, the more I see the similarities between architecture and programming.
