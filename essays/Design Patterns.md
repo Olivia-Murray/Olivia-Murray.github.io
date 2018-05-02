@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: Communication Through Uniformity
+title: Design Patterns
 # All dates must be YYYY-MM-DD format!
-date: 2018-02-08
+date: 2018-05-01
 labels:
   - Coding Standards
   - Software Engineering
