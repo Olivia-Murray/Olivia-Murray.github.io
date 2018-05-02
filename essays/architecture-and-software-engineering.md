@@ -20,3 +20,7 @@ Design patterns are reusable solutions to common problems.  In architecture, an 
 Design patterns are great for beginner programmers.  As a fairly novice programmer myself, I found that learning through design patterns is one of the better ways for me to learn. It allows me to get used to new terms and techniques.  Using this template, I can then play around with changing it and adding to it, based on my needs, which are usually smaller projects.
 
 I would like to think of it that architecture students are doing something similar.  They do not go and build a house their first day of class.  They start off with building smaller model projects and can play around with different structures.  The more I think about it, the more I see the similarities between architecture and programming.
+
+There are drawbacks to design patterns, as obviously, they cannot solve all problems.  They cannot always be molded into the problem you are looking to solve, but are extremely useful when you find the right one.  There may be certain trade-offs that come with using these patterns, so one should be conscious of this before using the pattern.
+
+Design patterns are an easy in for people like me who are still beginning their computer science adventures.  It allows you to gain experience with larger projects without the hassle of recreating it from scratch.  It is a general faster way of creating a startup application, and has many uses, but of course is not only limited to computer science.
