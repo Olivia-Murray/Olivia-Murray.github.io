@@ -9,7 +9,7 @@ date: 2018-05-04
 labels:
   - JavaScript
   - Meteor
-  = ReactJs
+  - ReactJs
   - ICS 314
 summary: Web application for UH Manoa students to track washer and dryer statuses.
 ---
