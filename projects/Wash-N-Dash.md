@@ -2,14 +2,16 @@
 layout: project
 type: project
 image: images/Spaceship-space.png
-title: Animated Story
-permalink: projects/animated-story
+title: Wash-N-Dash
+permalink: projects/wash-n-dash
 # All dates must be YYYY-MM-DD format!
-date: 2016-12-05
+date: 2018-05-04
 labels:
-  - Java
-  - ICS 111
-summary: Final project for ICS 111 - Worked with Justin Pham to create an animated story.
+  - JavaScript
+  - Meteor
+  = ReactJs
+  - ICS 314
+summary: Web application for UH Manoa students to track washer and dryer statuses.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/Spaceship.png">
