@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/wash-n-dash-logo.png
+image: images/wash-n-dash.png
 title: Wash-N-Dash
 permalink: projects/wash-n-dash
 # All dates must be YYYY-MM-DD format!
