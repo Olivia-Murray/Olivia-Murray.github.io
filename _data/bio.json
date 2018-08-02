@@ -92,10 +92,10 @@
           "Discrete Math for Computer Science II (ICS 241)",
           "Algorithms (ICS 311)",
           "Software engineering I (ICS 314)",
-          "Program Structure (ICS 212)",
-          "Security and Trust I (ICS 355)",
-          "Computing Ethics for LAs (ICS 390)",
-          "Special Topics: (ICS 491)"     
+          "Program Structure (ICS 212) (Current)",
+          "Security and Trust I (ICS 355) (Current)",
+          "Computing Ethics for LAs (ICS 390) (Current)",
+          "Special Topics: Competitive Programming (ICS 491) (Current)"     
       ]
     }
   ],
@@ -142,7 +142,7 @@
       "website": "bigislandvisioncenterhilo.com",
       "startDate": "2016-7-01",
       "endDate": "Present",
-      "summary": "Managing website content and clerical duties",
+      "summary": "Created and managed the Big Island Vision Center website using SquareSpace",
       "highlights": [
         "Write and post website content",
         "Design and create optical forms"
