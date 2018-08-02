@@ -58,7 +58,10 @@
         "C++",
         "Java",
         "Javascript",
-        "python"
+        "Ruby",
+        "python".
+        "HTML",
+        "Haml"
       ]
     },
     {
@@ -66,7 +69,8 @@
       "level": "",
       "keywords": [
         "Ubuntu",
-        "Git/GitHub"
+        "Git/GitHub",
+        "Ruby on Rails"
       ]
     }
   ],
@@ -77,7 +81,7 @@
       "studyType": "B.S.",
       "startDate": "2016-08-01",
       "endDate": "Present",
-      "gpa": "3.85",
+      "gpa": "3.70",
       "courses": [
         
           "Introduction to Computer Science I (ICS 111)",
@@ -86,9 +90,12 @@
           "Basic Concepts of Computer Science (ICS 222)",
           "Discrete Math for Computer Science I (ICS 141)",
           "Discrete Math for Computer Science II (ICS 241)",
-          "Algorithms (ICS 311) (current)",
-          "Software engineering I (ICS 314) (current)"
-        
+          "Algorithms (ICS 311)",
+          "Software engineering I (ICS 314)",
+          "Program Structure (ICS 212)",
+          "Security and Trust I (ICS 355)",
+          "Computing Ethics for LAs (ICS 390)",
+          "Special Topics: (ICS 491)"     
       ]
     }
   ],
@@ -132,9 +139,9 @@
       ]
     },
     {
-      "organization": "GreyHats at UHM",
-      "website": "https://greyhats.club/",
-      "position": "Club Member",
+      "organization": "ACM's GreyHats at UHM",
+      "website": "https://uhmgreyhats.github.io/",
+      "position": "President",
       "startDate": "2017-08-20",
       "endDate": "Present",
       "summary": "Cyber defense oriented club",
