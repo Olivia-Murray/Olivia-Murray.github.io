@@ -59,7 +59,7 @@
         "Java",
         "Javascript",
         "Ruby",
-        "python".
+        "python",
         "HTML",
         "Haml"
       ]
@@ -101,6 +101,18 @@
   ],
   "work": [
     {
+      "company": "Akamai (CS) Internship - Thirty Meter Telescope and IPAC (Pasadena)",
+      "position": "Web Application Developer",
+      "website": "https://akamaihawaii.org/",
+      "startDate": "2018-06-22",
+      "endDate": "Present",
+      "summary": "Created a web application for the collection of science case proposal data using Ruby on Rails, Javascript, and Haml",
+      "highlights": [
+        "Web application will be used for future versions of the TMT Detailed Science Case",
+        "Determined application parameters through collaboration with team from the TMT Project Office and the Infrared Processing and Analysis Center (IPAC) at Caltech"
+      ]
+    },
+    {
       "company": "Center on Disability Studies",
       "position": "Math and Science Curriculum Developer",
       "website": "",
@@ -110,6 +122,18 @@
       "highlights": [
         "Create and write lesson plans",
         "Design projects for students that incorporate math and science Common Core standards"
+      ]
+    },
+    {
+      "company": "Student Teacher Outreach Mentorship Program (STOMP)",
+      "position": "Robotics and Programming Mentor",
+      "website": "",
+      "startDate": "2017-10-01",
+      "endDate": "Present",
+      "summary": "Teaching robotics and programming, grades 4-9 and mentored for Cubes in Space",
+      "highlights": [
+        "Robotics includes Leggo Mindstorms, VEXIQ, and Dash",
+        "Programming languages include Java"
       ]
     },
     {
