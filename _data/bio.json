@@ -1,4 +1,4 @@
-{
+e{
   "basics": {
     "name": "Olivia Murray",
     "label": "Student",
@@ -6,13 +6,13 @@
     "email": "omurray4@hawaii.edu",
     "phone": "",
     "website": "https://Olivia-Murray.github.io",
-    "summary": "I am studying for a B.S. in Computer Science, specializing in Cyber Security, in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I received a B.S. in Computer Science, specializing in Cyber Security, from the Department of Information and Computer Sciences at the University of Hawaii in May 2020.",
     "location": {
-      "address": "2569 Dole St.",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "Honolulu, Hawaii",
+      "postalCode": "96813",
+      "city": "",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": ""
     },
     "profiles": [
       {
@@ -92,10 +92,16 @@
           "Discrete Math for Computer Science II (ICS 241)",
           "Algorithms (ICS 311)",
           "Software engineering I (ICS 314)",
-          "Program Structure (ICS 212) (Current)",
-          "Security and Trust I (ICS 355) (Current)",
-          "Computing Ethics for LAs (ICS 390) (Current)",
-          "Special Topics: Competitive Programming (ICS 491) (Current)"     
+          "Program Structure (ICS 212)",
+          "Security and Trust I (ICS 355)",
+          "Computing Ethics for LAs (ICS 390)",
+          "Database Systems I (ICS 321)",
+          "Computer Security and Ethics (ICS 425)",
+          "Operating Systems (ICS 332)",
+          "Data Security & Cryptography I (ICS 423)",
+          "Digital Forensics (ICS 428)",
+          "Data Networks (ICS 451)",
+          "Software Quality Assurance (ICS 427)"
       ]
     }
   ],
