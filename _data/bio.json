@@ -107,11 +107,38 @@ e{
   ],
   "work": [
     {
+      "company": "Endpoint Armor Corp",
+      "position": "Cybersecurity Defense Engineer",
+      "website": "https://www.endpointarmor.com",
+      "startDate": "2019-08-22",
+      "endDate": "Present",
+      "summary": "Provide solution and engineering support to staff, customers, and partners",
+      "highlights": [
+        "Field technical support calls with customers and partners",
+        "Conduct technical demonstrations to Endpoint Armor staff, customers, and partners",
+        "Provided technical documentation and diagrams",
+        "Provide technical sales support to Endpoint Armor sales staff"
+      ]
+    },
+    {
+      "company": "Akamai (Cybersecurity) Internship - Gemini Observatory (Hilo Base Facility)",
+      "position": "Cybersecurity Operations Tester",
+      "website": "https://akamaihawaii.org/",
+      "startDate": "2019-06-22",
+      "endDate": "2019-08-14",
+      "summary": "Reviewed and assessed Gemini Observatory’s current Incident Response Procedures document",
+      "highlights": [
+        "Designed and created the first Incident Response Preparedness Drill, a simulation of an information security incident, which will be used as a model for future annual drills",
+        "Proposed changes to these procedures will be based on the findings of this dill",
+        "Collaborated with Gemini ITS staff including the Gemini ISSE with findings later presented to the National Science Foundation (NSF)"
+      ]
+    },
+    {
       "company": "Akamai (CS) Internship - Thirty Meter Telescope and IPAC (Pasadena)",
       "position": "Web Application Developer",
       "website": "https://akamaihawaii.org/",
       "startDate": "2018-06-22",
-      "endDate": "Present",
+      "endDate": "2018-08-14",
       "summary": "Created a web application for the collection of science case proposal data using Ruby on Rails, Javascript, and Haml",
       "highlights": [
         "Web application will be used for future versions of the TMT Detailed Science Case",
@@ -123,7 +150,7 @@ e{
       "position": "Math and Science Curriculum Developer",
       "website": "",
       "startDate": "2017-12-01",
-      "endDate": "Present",
+      "endDate": "2019-05-20",
       "summary": "Developing curriculum for 4th and 5th graders under the Ka Pilina Noeau grant",
       "highlights": [
         "Create and write lesson plans",
@@ -135,7 +162,7 @@ e{
       "position": "Robotics and Programming Mentor",
       "website": "",
       "startDate": "2017-10-01",
-      "endDate": "Present",
+      "endDate": "2019-05-20",
       "summary": "Teaching robotics and programming, grades 4-9 and mentored for Cubes in Space",
       "highlights": [
         "Robotics includes Leggo Mindstorms, VEXIQ, and Dash",
@@ -147,7 +174,7 @@ e{
       "position": "Website Manager and Office Assistant",
       "website": "bigislandvisioncenterhilo.com",
       "startDate": "2016-7-01",
-      "endDate": "Present",
+      "endDate": "2020-06-30",
       "summary": "Created and managed the Big Island Vision Center website using SquareSpace",
       "highlights": [
         "Write and post website content",
@@ -158,10 +185,10 @@ e{
   "volunteer": [
     {
       "organization": "Civil Air Patrol",
-      "website": "https://www.maryknollschool.org/page/school-life/civil-air-patrol",
+      "website": "",
       "position": "CyberPatriot Coach and Mentor",
-      "startDate": "2018-01-17",
-      "endDate": "Present",
+      "startDate": "2016-10-17",
+      "endDate": "2018-10-30",
       "summary": "Coach and Mentor to cadets for national cybebr defence competition",
       "highlights": [
         "Teach students how to secure a computer",
@@ -173,7 +200,7 @@ e{
       "website": "https://uhmgreyhats.github.io/",
       "position": "President",
       "startDate": "2017-08-20",
-      "endDate": "Present",
+      "endDate": "2020-05-20",
       "summary": "Cyber defense oriented club",
       "highlights": [
         "Participate in various competitions such as National Cyber League",
@@ -188,6 +215,7 @@ e{
       "endDate": "Present",
       "summary": "Mentor and planning consultant for NexTech STEM promoting events",
       "highlights": [
+        "Founding member of NexTech, a 501c3 non-profit organization",
         "Help to plan NexTech workshops",
         "Project manager for the NexTech One-Day Workshop in March 2018"
       ]
@@ -200,15 +228,16 @@ e{
       "endDate": "Present",
       "summary": "Community organized team sport",
       "highlights": [
-        "Participate in monthly games open to the public",
-        "Organize the half-time entertainment for games"
+        "Participated in monthly games open to the public",
+        "Organized the half-time entertainment for games"
+        "Current announcer"
       ]
     }
   ],
   "awards": [
     {
       "title": "University of Hawaii at Manoa Regents Scholarship",
-      "date": "2016-Present",
+      "date": "2016-2020",
       "awarder": "University of Hawaii",
       "summary": "Regents Scholarships are full-tuition waiver scholarships awarded to 20 outstanding freshmen who receive an SAT total score of at least 1950 (old SAT) / 1380 (new SAT) or ACT combined score of at least 29, maintain at least a 3.5 GPA in academic subjects in high school, and whose extracurricular achievements are shown to be remarkable."
     },
